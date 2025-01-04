@@ -46,7 +46,7 @@ o	The average age of the customers in the dataset was 41.39, in the 36-60 age gr
 - 61+ age group: Contributing 7.29%, reflecting the modest spending of the senior age group.
 - Group 0-18 years old: Accounting for 2.46%, in line with the limited spending ability of young customers.
 
-## 5.	CONCLUDE
+## 5.	Conclude
 - The **main customer** group of the data set is customers from **36-60** years old, contributing **53% of total revenue**, this is the most important customer group.
 - **Female** customers are the main customers, contributing to **51% of revenue**.
 -	**Electronics**  is the sector that generates the **most revenue**, contributing 35% of total revenue, with great interest from male customers and the 36-60 age group
@@ -57,5 +57,7 @@ o	The average age of the customers in the dataset was 41.39, in the 36-60 age gr
     + The **36-60 age group**  not only  spends the most, but also tends to shop in the middle of the week and contributes greatly to **Electronics sales**.
     + The **19-35 age group**  is  more interested in the **fashion sector**, while the 61+ group  focuses on Electronics, and the 0-18 group  focuses on the beauty sector.
 
+---
+## You can download the full report file [here](https://github.com/nghiands/customer_analysis/blob/main/Retail%20Sales%20Dataset/Report_CustomerAnalysis_EN.docx)
 
 
